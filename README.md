@@ -25,9 +25,9 @@ The main objective of this project is to perform a comprehensive analysis of fin
 
 ## 🛠 Tools & Technologies
 
-- ** Tableau / Excel** (Specify the tool used)
-- **DAX/Excel Formulas** for calculated KPIs
-- **Data Cleaning & Preparation** (if applicable)
+- ** Tableau / Excel** 
+- **DAX Formulas** for calculated KPIs
+- **Data Cleaning & Preparation** 
 
 ---
 
